@@ -1,0 +1,9 @@
+ 
+/* Transparency */
+ #TabsToolbar, #titlebar, #main-window, #navigator-toolbox {
+	-moz-appearance: none !important;  
+ 	background-color: #14141465 !important;  
+	background-image: none !important;  
+    box-shadow: none !important;  
+    border: none !important;  
+}
