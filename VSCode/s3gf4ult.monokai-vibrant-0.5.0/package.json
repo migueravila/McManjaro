@@ -1,0 +1,47 @@
+{
+	"name": "monokai-vibrant",
+	"displayName": "Monokai Vibrant",
+	"description": "A very dark and overly vibrant Monokai theme with italicized keywords and operators.",
+	"version": "0.5.0",
+	"publisher": "s3gf4ult",
+	"icon": "images/icon.png",
+	"author": "Dylan Marsh <dylan@knoware.co>",
+	"license": "MIT",
+	"galleryBanner": {
+		"color": "#F5B800"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+	},
+	"bugs": {
+		"url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+	},
+	"homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Theme",
+		"Vibrant",
+		"Monokai",
+		"Operator"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Vibrant",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai Vibrant-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "40ae5cb7-e0d1-4d3d-b44f-1bea5279c6d7",
+		"publisherId": "e17173b9-9682-4213-ba62-13296c84b6f3",
+		"publisherDisplayName": "s3gf4ult"
+	}
+}
