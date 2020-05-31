@@ -7,3 +7,21 @@
     box-shadow: none !important;  
     border: none !important;  
 }
+#forward-button {
+display: none !important;
+}
+.titlebar-spacer {
+    display: none !important;
+}
+.toolbar-items {
+    margin-left: -70px !important;
+}
+#TansToolbar {
+margin-left: -70px !important;
+}
+#tracking-protection-icon-container {
+display: none !important;
+}
+#PanelUI-button {
+display: none !important;
+}
