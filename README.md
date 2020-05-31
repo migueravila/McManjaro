@@ -1,2 +1,3 @@
 # Eclair-Theme
-A KDE Plasma customize theme
+
+A KDE Plasma customized theme
