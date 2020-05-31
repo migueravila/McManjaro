@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Pisi Linux Splash for KDE Plasma Desktop
+Name=Pisi-Linux-Splash
+X-KDE-PluginInfo-Author=prdsmehmetstc
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=prdsmehmetstc@pisilinux.org
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3.0
+X-KDE-PluginInfo-Name=Pisi-Linux-Splash
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/prdsmehmetstc
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1213730
