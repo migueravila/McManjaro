@@ -81,3 +81,13 @@ border:none !important;
   border-bottom: 0px !important;
   }
 /* Remove border above navbar */
+#navigator-toolbox::after {
+  border-top: 0px !important;
+  }
+  #nav-bar {
+    background: rgba(20,20,20,0.6) !important; 
+    border: none !important;
+    box-shadow: none !important;
+	margin-top: -1px !important; border-top-width: -1px !important;
+	margin-bottom: -1px !important; border-bottom-width: -1px !important;
+}   
