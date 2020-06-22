@@ -34,8 +34,10 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
-  "editor.formatOnSave": true,
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "color-highlight.markerType": "foreground",
+  "editor.cursorBlinking": "smooth",
+  "editor.fontSize": 14
 }
