@@ -9,8 +9,11 @@
 - Plasma Theme
 - Kvantum Theme
 - Color Scheme
+- Konsole colors theme
 - Look and Feel custom Splash Screen
 - A VSCode customized extension (Based on **Monokai Vibrant**)
+
+### You can look for it in the AUR: [AUR Package](https://aur.archlinux.org/packages/mcmanjaro-kde-git/)
 
 ### Screenshot:
 
