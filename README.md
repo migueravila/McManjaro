@@ -13,6 +13,8 @@
 - Look and Feel custom Splash Screen
 - A VSCode customized extension (Based on **Monokai Vibrant**)
 
+##### - Special Recomendation for GTK theme: [Cameo Manjaro](https://github.com/paullinuxthemer/cameo/tree/master/Cameo-Manjaro-themes) builded by: [Paullinuxthemer](https://github.com/paullinuxthemer)
+
 ### You can look for it in the AUR: [AUR Package](https://aur.archlinux.org/packages/mcmanjaro-kde-git/)
 
 ### Screenshot:
