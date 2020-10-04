@@ -1,6 +1,6 @@
-# McManjaro
-
-## A KDE Plasma customized theme. 
+<div align="center">
+<h1>McManjaro: 💻  A Relaxed KDE Plasma global theme.
+</div>
 
 
 ### Here in the repo you can find:
