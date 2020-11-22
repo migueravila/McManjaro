@@ -1,5 +1,6 @@
 <div align="center">
-<h1>McManjaro: 💻  A Relaxed KDE Plasma global theme.
+  <h1>McManjaro:</h1>
+    <b>💻  A Relaxed KDE Plasma global theme.</b>
 </div>
 
 
